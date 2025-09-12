@@ -39,7 +39,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/48/000000/canva.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/capcut.png" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/48/000000/adobe-lightroom.png" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
 </p>
