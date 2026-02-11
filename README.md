@@ -2,58 +2,95 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
 
-# Hi 👋, I'm Atif Jamil  
-### A passionate Frontend Developer & MERN Stack Learner  
+# Atif Jamil
+### Frontend Developer | MERN Stack Learner | React Enthusiast
+
+<p>
+  <a href="https://www.linkedin.com/in/atif-jamil">
+    <img src="https://img.shields.io/badge/LinkedIn-Atif%20Jamil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:atifjamil700@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-atifjamil700@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=AtifJamil&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me  
-- 🌱 I’m currently learning **MERN Stack (Node.js, Express, MongoDB, React)**  
-- 💻 Skilled in **HTML, CSS, JavaScript, React**  
-- 🎨 Also interested in **Web & Graphic Design** (Canva, CapCut, Lightroom)  
-- 🤝 I’m looking to collaborate on **Frontend & Web Projects**  
-- 💬 Ask me about **React.js, JavaScript, Frontend Development**  
-- 📧 How to reach me: **atifjamil700@gmail.com**  
-- ⚡ Fun fact: *Always learning, always coding 🚀*  
+## 🚀 About Me
+
+💻 Frontend-focused Web Developer based in **Lahore, Pakistan**  
+🎯 Passionate about building clean UI, responsive layouts & smooth user experiences  
+🌱 Currently expanding my expertise in the **MERN Stack**  
+⚡ Strong foundation in modern frontend development & component-based architecture  
+🤝 Open to collaborating on real-world web applications and creative projects  
+
+> I believe in continuous learning, writing clean code, and building solutions that actually solve problems.
 
 ---
 
-## 🌐 Connect with me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/atif-jamil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:atifjamil700@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+## 🧠 Tech Stack
+
+### 👨‍💻 Frontend Development
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+</p>
+
+### 🛠 Backend & Tools (Learning & Practicing)
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+</p>
+
+### 🎨 Creative Tools
+<p>
+<img src="https://img.icons8.com/fluency/48/000000/canva.png" width="40"/>
+<img src="https://img.icons8.com/fluency/48/000000/adobe-lightroom.png" width="40"/>
+<img src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png" width="40"/>
 </p>
 
 ---
 
-## 🛠 Languages and Tools  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/000000/canva.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/000000/adobe-lightroom.png" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+## 📌 What I’m Working On
+
+- Building responsive and modern React applications  
+- Improving backend integration skills (APIs, authentication, databases)  
+- Strengthening problem-solving & clean architecture practices  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtifJamil&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AtifJamil&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtifJamil&theme=tokyonight" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AtifJamil&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
+## 🎯 Career Vision
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtifJamil&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
+To grow as a professional Full Stack Developer by contributing to impactful projects, collaborating with skilled teams, and continuously mastering modern web technologies.
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtifJamil&theme=tokyonight" alt="GitHub Streak" />
-</p>
+---
+
+<div align="center">
+
+### ⭐ “Code. Improve. Repeat.”
+
+</div>
