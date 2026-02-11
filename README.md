@@ -1,96 +1,107 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90"/>
 
 # Atif Jamil
-### Frontend Developer | MERN Stack Learner | React Enthusiast
 
-<p>
-  <a href="https://www.linkedin.com/in/atif-jamil">
-    <img src="https://img.shields.io/badge/LinkedIn-Atif%20Jamil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:atifjamil700@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-atifjamil700@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Frontend+Engineer;React+Specialist;MERN+Stack+Developer;Crafting+Modern+Web+Experiences" />
 
-<img src="https://komarev.com/ghpvc/?username=AtifJamil&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<br/>
+
+<a href="https://www.linkedin.com/in/atif-jamil">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:atifjamil700@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AtifJamil&label=Profile+Views&color=0A66C2&style=flat" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Professional Summary
 
-💻 Frontend-focused Web Developer based in **Lahore, Pakistan**  
-🎯 Passionate about building clean UI, responsive layouts & smooth user experiences  
-🌱 Currently expanding my expertise in the **MERN Stack**  
-⚡ Strong foundation in modern frontend development & component-based architecture  
-🤝 Open to collaborating on real-world web applications and creative projects  
+Frontend-focused Web Developer based in **Lahore, Pakistan**, specializing in building scalable, responsive, and performance-driven web applications.
 
-> I believe in continuous learning, writing clean code, and building solutions that actually solve problems.
+With a strong foundation in **React, JavaScript, and modern UI architecture**, I focus on writing clean, maintainable code and creating seamless user experiences.
+
+Currently advancing toward full-stack expertise through the **MERN Stack ecosystem**.
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Technical Expertise
 
-### 👨‍💻 Frontend Development
+### Frontend Engineering
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### 🛠 Backend & Tools (Learning & Practicing)
+- Component-Based Architecture  
+- Responsive Design Systems  
+- State Management Fundamentals  
+- API Integration  
+
+---
+
+### Backend & Database (Growing Expertise)
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### 🎨 Creative Tools
+- RESTful APIs  
+- Authentication Basics  
+- Database Modeling  
+
+---
+
+### Tools & Creative Stack
 <p>
-<img src="https://img.icons8.com/fluency/48/000000/canva.png" width="40"/>
-<img src="https://img.icons8.com/fluency/48/000000/adobe-lightroom.png" width="40"/>
-<img src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png" width="40"/>
+<img src="https://skillicons.dev/icons?i=github,vscode" />
+<img src="https://img.icons8.com/color/48/canva.png" width="40"/>
+<img src="https://img.icons8.com/color/48/adobe-lightroom.png" width="40"/>
+<img src="https://img.icons8.com/color/48/adobe-premiere-pro.png" width="40"/>
 </p>
 
 ---
 
-## 📌 What I’m Working On
-
-- Building responsive and modern React applications  
-- Improving backend integration skills (APIs, authentication, databases)  
-- Strengthening problem-solving & clean architecture practices  
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Intelligence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtifJamil&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AtifJamil&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AtifJamil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtifJamil&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtifJamil&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtifJamil&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
 ---
 
-## 🎯 Career Vision
+## 🎯 Engineering Philosophy
 
-To grow as a professional Full Stack Developer by contributing to impactful projects, collaborating with skilled teams, and continuously mastering modern web technologies.
+- Write code that scales  
+- Build interfaces that feel intuitive  
+- Focus on performance & maintainability  
+- Improve 1% every single day  
+
+---
+
+## 🌍 Let’s Collaborate
+
+I’m open to working on impactful frontend and full-stack projects.  
+If you're building something meaningful — let’s connect.
+
+📧 **atifjamil700@gmail.com**  
+🔗 **www.linkedin.com/in/atif-jamil**
 
 ---
 
 <div align="center">
 
-### ⭐ “Code. Improve. Repeat.”
+### "Discipline in Code. Excellence in Execution."
 
 </div>
